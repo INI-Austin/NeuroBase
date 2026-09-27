@@ -69,12 +69,11 @@
     "doi": "10.1038/s41591-026-04414-6",
     "url": "https://doi.org/10.1038/s41591-026-04414-6",
     "publishedAt": "2026-06-15T00:00:00.000Z",
-    "pctile": 0.99779297,
-    "fwci": 40.5071,
+    "pctile": 0.99776881,
+    "fwci": 40.2051,
     "citedBy": 9,
     "relevance": 9,
-    "significance": "While laboratory BCIs have decoded speech and cursor control with impressive accuracy, they have required constant technical supervision and lab environments, blocking real clinical translation. This work demonstrates that an intracortical BCI system can be operated independently by a patient at home for extended periods, supporting both naturalistic speech decoding and digital cursor control without expert oversight. This is a landmark proof of concept that addresses the critical gap between research prototypes and practical, patient-independent neurotechnology, showing that implantable BCIs can deliver genuine functional benefit and usability in real life, not just in controlled settings.",
-    "image_license_url": null
+    "significance": "While laboratory BCIs have decoded speech and cursor control with impressive accuracy, they have required constant technical supervision and lab environments, blocking real clinical translation. This work demonstrates that an intracortical BCI system can be operated independently by a patient at home for extended periods, supporting both naturalistic speech decoding and digital cursor control without expert oversight. This is a landmark proof of concept that addresses the critical gap between research prototypes and practical, patient-independent neurotechnology, showing that implantable BCIs can deliver genuine functional benefit and usability in real life, not just in controlled settings."
   },
   {
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Cochlear_implant_user.jpg",
@@ -143,8 +142,8 @@
     "doi": "10.1002/epi.70321",
     "url": "https://doi.org/10.1002/epi.70321",
     "publishedAt": "2026-06-03",
-    "pctile": 0.99693502,
-    "fwci": 27.8671,
+    "pctile": 0.99694404,
+    "fwci": 27.8099,
     "citedBy": 5,
     "relevance": 8,
     "significance": "This trial demonstrates that responsive thalamic stimulation safely reduces seizures in drug-resistant generalized epilepsy patients who lack other effective treatment options."
@@ -237,8 +236,8 @@
     "doi": "10.1016/j.neurot.2026.e01051",
     "url": "https://doi.org/10.1016/j.neurot.2026.e01051",
     "publishedAt": "2026-07-01",
-    "pctile": 0.96202573,
-    "fwci": 5.1471,
+    "pctile": 0.96157454,
+    "fwci": 5.1146,
     "citedBy": 1,
     "relevance": 8,
     "significance": ""
@@ -294,8 +293,8 @@
     "doi": "10.1016/j.neurot.2026.e01042",
     "url": "https://doi.org/10.1016/j.neurot.2026.e01042",
     "publishedAt": "2026-07-01",
-    "pctile": 0.96133802,
-    "fwci": 5.1189,
+    "pctile": 0.96128344,
+    "fwci": 5.1146,
     "citedBy": 1,
     "relevance": 7,
     "significance": ""
@@ -342,6 +341,6 @@
     "fwci": 5.7867,
     "citedBy": 1,
     "relevance": 7,
-    "significance": "Speech BCIs promise communication restoration for paralyzed patients, but implanting large electrode arrays carries surgical risks. This work optimizes the positioning and extent of high-density ECoG grids on sensorimotor cortex to maximize speech decoding performance while minimizing grid size, directly solving a practical design constraint critical to clinical viability."
+    "significance": "This work tackles a concrete engineering problem in speech BCI systems: where to position high-density ECoG electrode grids on sensorimotor cortex and how many channels are needed to maximize speech decoding while managing surgical risk and biocompatibility. The study bridges neuroscience findings and hardware design choices, informing electrode array geometry and implant strategy for future speech restoration systems. Neurotech developers building or deploying speech BCIs will find direct guidance on grid configuration."
   }
 ]
