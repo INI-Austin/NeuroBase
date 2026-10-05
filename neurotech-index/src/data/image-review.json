@@ -2641,6 +2641,27 @@
       "title": null,
       "why": "unreviewed",
       "at": "2026-10-04"
+    },
+    {
+      "url": "https://www.statnews.com/wp-content/uploads/2026/10/AP26278347243526-1024x576.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-05"
+    },
+    {
+      "url": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315391953.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-05"
+    },
+    {
+      "url": "https://i.guim.co.uk/img/media/d47bc0a2c6ed202919fd0ae8cb7716690b5a59c1/1107_20_3975_3180/master/3975.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff8ec3e34661a15aec317d2e8df8768e",
+      "item": "c1ed80db-4644-4a77-99d9-776474ad00fa",
+      "title": "Nobel prize in medicine 2026 awarded for research into mysteries of brain",
+      "why": "the photograph this outlet ran",
+      "at": "2026-10-05"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
