@@ -2697,6 +2697,41 @@
       "title": "How pond algae led to a Nobel prize and a new way to study the brain",
       "why": "the photograph this outlet ran",
       "at": "2026-10-06"
+    },
+    {
+      "url": "https://neurosciencenews.com/files/2026/10/dbs-cognition-parkinsons-neuroscience-1155x770.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-07"
+    },
+    {
+      "url": "https://media.wired.com/photos/6ac3cb5301457b4f8d2fd71f/master/pass/100526-Brain%20Ultrasound.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-07"
+    },
+    {
+      "url": "https://spectrum.ieee.org/media-library/close-up-of-a-translucent-gelatin-capsule-containing-electrodes.jpg?id=67813480&width=980",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-07"
+    },
+    {
+      "url": "https://i.guim.co.uk/img/media/0523aa8cb2a2e3c1308400950b7a9d669143d373/589_0_6609_5287/master/6609.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=632381df85114c8f6fa77c4d3744b9f7",
+      "item": "2321d6ee-c6c9-4c5e-b1f0-438fcca5b75c",
+      "title": "Nobel prize in medicine 2026: unlocking the mysteries of the brain",
+      "why": "the photograph this outlet ran",
+      "at": "2026-10-07"
+    },
+    {
+      "url": "https://i.guim.co.uk/img/media/c069225004e2a9416b51413631550a3e8bcabf42/255_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d86a3226e0d49515e8b5b930e868104",
+      "item": "57755533-ecfa-49a4-9315-c198d668286e",
+      "title": "Moment Karl Deisseroth tells his family he won the Nobel prize in medicine – vid",
+      "why": "the photograph this outlet ran",
+      "at": "2026-10-07"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
