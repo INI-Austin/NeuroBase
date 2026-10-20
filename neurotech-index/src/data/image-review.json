@@ -2774,6 +2774,20 @@
       "title": null,
       "why": "unreviewed",
       "at": "2026-10-19"
+    },
+    {
+      "url": "https://mmx.prnewswire.com/media/MS2016568/Cochlear-North-America-Photo.jpg?id=OA3027941&p=original",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-20"
+    },
+    {
+      "url": "https://assets.newatlas.com/dims4/default/db7f014/2147483647/strip/true/crop/6000x4800+0+0/resize/1200x960!/format/webp/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F58%2F15%2F2a2359b843c2a624efaa278b42fd%2Fpastel-retro-pop-art-engraving-human-brain-with-eye-glasses-illustration-in-side-view-isolated-on-pastel-pink-bg.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-20"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
