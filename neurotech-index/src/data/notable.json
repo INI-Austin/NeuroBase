@@ -9,7 +9,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_The_Modular_Prosthetic_Limb_(MPL)..jpg",
     "image_w": 2000,
     "image_h": 1333,
-    "image_checked_at": "2026-10-20T12:14:14.217Z",
+    "image_checked_at": "2026-10-21T12:26:20.295Z",
     "title": "Long-term independent use of an intracortical brain-computer interface for speech and cursor control.",
     "authors": [
       "Nicholas S Card",
@@ -120,7 +120,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Typical_deep_brain_stimulation_setup.jpg",
     "image_w": 2000,
     "image_h": 2898,
-    "image_checked_at": "2026-10-20T12:14:13.759Z",
+    "image_checked_at": "2026-10-21T12:26:19.531Z",
     "title": "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks.",
     "authors": [
       "Satoka H Fujimoto",
@@ -170,8 +170,8 @@
     "pctile": 0.99317219,
     "fwci": 16.7094,
     "citedBy": 4,
-    "relevance": 9,
-    "significance": "This work is a landmark advance in speech BCIs because it demonstrates that a single high-density electrode array can decode both speech and gestural intent from motor and premotor cortex, enabling richer and more natural communication for paralyzed users. Prior BCIs decoded speech or movement separately, but simultaneous multimodal decoding from one implant represents a major step toward practical, clinically deployable communication neuroprostheses. The single-array approach also reduces surgical burden and complexity compared to multi-implant systems."
+    "relevance": 8,
+    "significance": "This study demonstrates a major step forward in speech BCIs and communication prostheses: simultaneous decoding of speech and nonverbal gestures from a single high-density ECoG array in paralyzed individuals. This is a notable advance because prior work focused on either speech or gestures alone, whereas natural communication requires both. The result validates that rich multimodal communication can be restored and points toward more naturalistic neural interfaces for patients with severe paralysis."
   },
   {
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Patch_rig.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -184,7 +184,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Patch_rig.png",
     "image_w": 2000,
     "image_h": 732,
-    "image_checked_at": "2026-10-20T12:14:14.044Z",
+    "image_checked_at": "2026-10-21T12:26:19.993Z",
     "title": "Neuropixels Opto: combining high-resolution electrophysiology and optogenetics.",
     "authors": [
       "Anna A Lakunina",
@@ -243,6 +243,42 @@
     "citedBy": 2,
     "relevance": 7,
     "significance": "As brain-computer interfaces, neuromodulation devices, and neural sensors move beyond clinical settings into consumer and everyday applications, understanding the broader transformation in cognition, society, and technology adoption becomes critical for the field. This framing identifies the neurotechnology shift as a central challenge for practitioners, ethicists, and policymakers shaping how neurotechnology integrates into human life and work. It bridges device development with social and cultural feasibility."
+  },
+  {
+    "title": "Effective stimulation sites and networks for substantia nigra pars reticulata deep brain stimulation for auditory verbal hallucinations in schizophrenia.",
+    "authors": [
+      "Min Jae Kim",
+      "Ankur Butala",
+      "Yousef Salimpour",
+      "Akira Sawa",
+      "Martijn Figee",
+      "Ki Sueng Choi",
+      "Anruo Shen",
+      "David Schretlen",
+      "Kelly A Mills",
+      "Nicola Cascella"
+    ],
+    "journal": "Translational Psychiatry",
+    "pmid": "42897143",
+    "doi": "10.1038/s41398-026-04298-7",
+    "url": "https://doi.org/10.1038/s41398-026-04298-7",
+    "publishedAt": "2026-07-24T00:00:00.000Z",
+    "pctile": 0.97721384,
+    "fwci": 11.9377,
+    "citedBy": 4,
+    "relevance": 7,
+    "significance": "This work applies deep brain stimulation to a new psychiatric target (substantia nigra pars reticulata) for treatment-resistant schizophrenia, with acute outcome mapping using connectomics. It represents a clinically meaningful advance in understanding how DBS engages distributed brain networks to suppress symptoms, bridging device implantation with mechanistic circuit analysis. This directional progress in DBS applications and targeting refinement matters to practitioners developing psychiatric neuromodulation protocols.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tiefe_Hirnstimulation_-_Sonden_RoeSchaedel_ap.jpg",
+    "image_kind": "photo",
+    "image_subject": "class",
+    "image_credit": "Hellerhoff",
+    "image_license": "CC BY-SA 3.0",
+    "image_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "image_source": "wikipedia",
+    "image_source_url": "https://en.wikipedia.org/wiki/Deep%20brain%20stimulation",
+    "image_w": 756,
+    "image_h": 790,
+    "image_checked_at": "2026-10-21T12:26:01.653Z"
   },
   {
     "title": "Advancing data protections for implantable brain-computer interfaces.",
@@ -362,31 +398,5 @@
     "citedBy": 1,
     "relevance": 7,
     "significance": ""
-  },
-  {
-    "title": "Spatial proteomic analysis of antimicrobial therapeutic-releasing intracortical probes as a platform technology to modulate specific neuroinflammatory pathways.",
-    "authors": [
-      "G Burkhart",
-      "J J Wang",
-      "Y Gao",
-      "G Glusauskas",
-      "A Thompson",
-      "L Newman",
-      "J J Pancrazio",
-      "H A von Recum",
-      "A Hess-Dunning",
-      "H Amani Hamedani",
-      "J R Capadona"
-    ],
-    "journal": "Journal of Materials Chemistry B",
-    "pmid": "42504606",
-    "doi": "10.1039/d5tb02785c",
-    "url": "https://doi.org/10.1039/d5tb02785c",
-    "publishedAt": "2026-08-05T00:00:00+00:00",
-    "pctile": 0.90736689,
-    "fwci": 2.3929,
-    "citedBy": 1,
-    "relevance": 8,
-    "significance": "Chronic intracortical microelectrodes fail partly due to immune reaction and blood-brain barrier disruption at the implant site. This work designs probes that actively release therapeutics to dampen neuroinflammation and maintain stable recordings over time. Solving the biocompatibility challenge is essential for all long-term neural interfaces, from BCIs to closed-loop stimulation systems, making this a cornerstone neurotechnology problem."
   }
 ]

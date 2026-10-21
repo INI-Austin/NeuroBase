@@ -2788,6 +2788,34 @@
       "title": null,
       "why": "unreviewed",
       "at": "2026-10-20"
+    },
+    {
+      "url": "https://spectrum.ieee.org/media-library/a-man-with-a-prosthetic-arm-resting-his-hand-on-a-wooden-table.jpg?id=68433845&width=980",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-21"
+    },
+    {
+      "url": "https://neurosciencenews.com/files/2026/10/focused-ultrasound-delusions-schizophrenia-neuroscience-1155x770.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-21"
+    },
+    {
+      "url": "https://spectrum.ieee.org/media-library/michael-easy-is-the-first-person-to-receive-an-implant-from-phantom-neuro-to-control-his-prosthetic-arm.jpg?id=68433845&width=1200&height=600&coordinates=499%2C850%2C313%2C36",
+      "item": "0cd2bfd4-ade8-41da-a749-a10aa4e547be",
+      "title": "Under-Skin Implant Controls Prosthetic Arms",
+      "why": "the photograph this outlet ran",
+      "at": "2026-10-21"
+    },
+    {
+      "url": "https://neurosciencenews.com/files/2026/10/focused-ultrasound-delusions-schizophrenia-neuroscience.jpg",
+      "item": "b3194fc7-a1e9-40e2-87d8-4d52b252385b",
+      "title": "Focused Ultrasound Calms Delusions in Schizophrenia",
+      "why": "the photograph this outlet ran",
+      "at": "2026-10-21"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
