@@ -9,7 +9,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_The_Modular_Prosthetic_Limb_(MPL)..jpg",
     "image_w": 2000,
     "image_h": 1333,
-    "image_checked_at": "2026-10-21T12:26:20.295Z",
+    "image_checked_at": "2026-10-22T12:28:04.276Z",
     "title": "Long-term independent use of an intracortical brain-computer interface for speech and cursor control.",
     "authors": [
       "Nicholas S Card",
@@ -120,7 +120,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Typical_deep_brain_stimulation_setup.jpg",
     "image_w": 2000,
     "image_h": 2898,
-    "image_checked_at": "2026-10-21T12:26:19.531Z",
+    "image_checked_at": "2026-10-22T12:28:03.863Z",
     "title": "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks.",
     "authors": [
       "Satoka H Fujimoto",
@@ -184,7 +184,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Patch_rig.png",
     "image_w": 2000,
     "image_h": 732,
-    "image_checked_at": "2026-10-21T12:26:19.993Z",
+    "image_checked_at": "2026-10-22T12:28:04.133Z",
     "title": "Neuropixels Opto: combining high-resolution electrophysiology and optogenetics.",
     "authors": [
       "Anna A Lakunina",
@@ -229,6 +229,23 @@
     "significance": "This paper enables simultaneous high-resolution recording and spatially precise optogenetic manipulation of thousands of neurons, revolutionizing circuit neuroscience research capabilities."
   },
   {
+    "title": "Advancing data protections for implantable brain-computer interfaces.",
+    "authors": [
+      "Julian D Sandbrink",
+      "Michael J Young"
+    ],
+    "journal": "Communications Medicine",
+    "pmid": "42509357",
+    "doi": "10.1038/s43856-026-01797-y",
+    "url": "https://doi.org/10.1038/s43856-026-01797-y",
+    "publishedAt": "2026-07-27T00:00:00+00:00",
+    "pctile": 0.98615957,
+    "fwci": 11.8856,
+    "citedBy": 2,
+    "relevance": 8,
+    "significance": "As implantable BCIs move from research prototypes into clinical practice, the rich neural signals they capture create unique privacy and security challenges beyond conventional health data. This review examines gaps in existing legal protections and proposes frameworks for safeguarding sensitive brain-derived information. Addressing data protection is essential infrastructure for clinical BCI deployment and directly impacts regulatory approval, commercialization, and patient trust in neurotechnology."
+  },
+  {
     "title": "Neurotechnological Natives and the Neurotechnology Shift: A Research Agenda for the Brain-as-Interface Era.",
     "authors": [
       "José M Muñoz"
@@ -245,6 +262,17 @@
     "significance": "As brain-computer interfaces, neuromodulation devices, and neural sensors move beyond clinical settings into consumer and everyday applications, understanding the broader transformation in cognition, society, and technology adoption becomes critical for the field. This framing identifies the neurotechnology shift as a central challenge for practitioners, ethicists, and policymakers shaping how neurotechnology integrates into human life and work. It bridges device development with social and cultural feasibility."
   },
   {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tiefe_Hirnstimulation_-_Sonden_RoeSchaedel_ap.jpg",
+    "image_kind": "photo",
+    "image_subject": "class",
+    "image_credit": "Hellerhoff",
+    "image_license": "CC BY-SA 3.0",
+    "image_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "image_source": "wikipedia",
+    "image_source_url": "https://en.wikipedia.org/wiki/Deep%20brain%20stimulation",
+    "image_w": 756,
+    "image_h": 790,
+    "image_checked_at": "2026-10-21T12:26:01.653Z",
     "title": "Effective stimulation sites and networks for substantia nigra pars reticulata deep brain stimulation for auditory verbal hallucinations in schizophrenia.",
     "authors": [
       "Min Jae Kim",
@@ -267,35 +295,7 @@
     "fwci": 11.9377,
     "citedBy": 4,
     "relevance": 7,
-    "significance": "This work applies deep brain stimulation to a new psychiatric target (substantia nigra pars reticulata) for treatment-resistant schizophrenia, with acute outcome mapping using connectomics. It represents a clinically meaningful advance in understanding how DBS engages distributed brain networks to suppress symptoms, bridging device implantation with mechanistic circuit analysis. This directional progress in DBS applications and targeting refinement matters to practitioners developing psychiatric neuromodulation protocols.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tiefe_Hirnstimulation_-_Sonden_RoeSchaedel_ap.jpg",
-    "image_kind": "photo",
-    "image_subject": "class",
-    "image_credit": "Hellerhoff",
-    "image_license": "CC BY-SA 3.0",
-    "image_license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "image_source": "wikipedia",
-    "image_source_url": "https://en.wikipedia.org/wiki/Deep%20brain%20stimulation",
-    "image_w": 756,
-    "image_h": 790,
-    "image_checked_at": "2026-10-21T12:26:01.653Z"
-  },
-  {
-    "title": "Advancing data protections for implantable brain-computer interfaces.",
-    "authors": [
-      "Julian D Sandbrink",
-      "Michael J Young"
-    ],
-    "journal": "Communications Medicine",
-    "pmid": "42509357",
-    "doi": "10.1038/s43856-026-01797-y",
-    "url": "https://doi.org/10.1038/s43856-026-01797-y",
-    "publishedAt": "2026-07-27T00:00:00+00:00",
-    "pctile": 0.96518565,
-    "fwci": 6.1552,
-    "citedBy": 1,
-    "relevance": 8,
-    "significance": "As implantable BCIs move from research prototypes into clinical practice, the rich neural signals they capture create unique privacy and security challenges beyond conventional health data. This review examines gaps in existing legal protections and proposes frameworks for safeguarding sensitive brain-derived information. Addressing data protection is essential infrastructure for clinical BCI deployment and directly impacts regulatory approval, commercialization, and patient trust in neurotechnology."
+    "significance": "This work applies deep brain stimulation to a new psychiatric target (substantia nigra pars reticulata) for treatment-resistant schizophrenia, with acute outcome mapping using connectomics. It represents a clinically meaningful advance in understanding how DBS engages distributed brain networks to suppress symptoms, bridging device implantation with mechanistic circuit analysis. This directional progress in DBS applications and targeting refinement matters to practitioners developing psychiatric neuromodulation protocols."
   },
   {
     "title": "Safety and adverse event profiles in neuromodulation therapies for drug-resistant epilepsy.",
