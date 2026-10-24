@@ -2816,6 +2816,20 @@
       "title": "Focused Ultrasound Calms Delusions in Schizophrenia",
       "why": "the photograph this outlet ran",
       "at": "2026-10-21"
+    },
+    {
+      "url": "https://neurosciencenews.com/files/2026/10/depression-dbs-neurotech-1155x770.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-10-24"
+    },
+    {
+      "url": "https://neurosciencenews.com/files/2026/10/depression-dbs-neurotech.jpg",
+      "item": "93f6bdc8-10b7-41ed-a940-3b0539df0a48",
+      "title": "Neural Chip Powers Adaptive DBS for Depression",
+      "why": "the photograph this outlet ran",
+      "at": "2026-10-24"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
