@@ -9,7 +9,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_The_Modular_Prosthetic_Limb_(MPL)..jpg",
     "image_w": 2000,
     "image_h": 1333,
-    "image_checked_at": "2026-10-30T13:34:41.663Z",
+    "image_checked_at": "2026-10-31T13:13:53.117Z",
     "title": "Long-term independent use of an intracortical brain-computer interface for speech and cursor control.",
     "authors": [
       "Nicholas S Card",
@@ -29,8 +29,8 @@
     "doi": "10.1038/s41591-026-04414-6",
     "url": "https://doi.org/10.1038/s41591-026-04414-6",
     "publishedAt": "2026-06-15T00:00:00.000Z",
-    "pctile": 0.99875072,
-    "fwci": 41.6509,
+    "pctile": 0.99873277,
+    "fwci": 41.3076,
     "citedBy": 12,
     "relevance": 9,
     "significance": "While laboratory BCIs have decoded speech and cursor control with impressive accuracy, they have required constant technical supervision and lab environments, blocking real clinical translation. This work demonstrates that an intracortical BCI system can be operated independently by a patient at home for extended periods, supporting both naturalistic speech decoding and digital cursor control without expert oversight. This is a landmark proof of concept that addresses the critical gap between research prototypes and practical, patient-independent neurotechnology, showing that implantable BCIs can deliver genuine functional benefit and usability in real life, not just in controlled settings.",
@@ -120,7 +120,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Typical_deep_brain_stimulation_setup.jpg",
     "image_w": 2000,
     "image_h": 2898,
-    "image_checked_at": "2026-10-30T13:34:41.050Z",
+    "image_checked_at": "2026-10-31T13:13:52.328Z",
     "title": "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks.",
     "authors": [
       "Satoka H Fujimoto",
@@ -170,8 +170,8 @@
     "pctile": 0.99281662,
     "fwci": 16.6604,
     "citedBy": 4,
-    "relevance": 9,
-    "significance": "This work demonstrates simultaneous decoding of speech and gesture commands from a single intracortical electrode array in paralyzed individuals, enabling richer and more natural communication than prior single-modality BCIs. The achievement represents a significant engineering and neuroscience advance, showing that multiple motor and language signals can be reliably extracted and simultaneously reconstructed to control external devices. This multimodal approach substantially improves the practical utility of speech and communication BCIs for restoration of natural human-computer interaction."
+    "relevance": 8,
+    "significance": "Most speech-BCI systems decode either speech or gesture commands independently, limiting the naturalness and expressiveness of restored communication. This work demonstrates that a single implanted electrode array can decode both speech motor imagery and gesture intent concurrently, enabling richer and more intuitive control of communication devices. The result is a significant step toward restoring fluent, natural multimodal communication for people with paralysis, showing the maturation of high-density BCI decoding algorithms and expanding the therapeutic scope of invasive BCIs."
   },
   {
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Patch_rig.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -184,7 +184,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Patch_rig.png",
     "image_w": 2000,
     "image_h": 732,
-    "image_checked_at": "2026-10-30T13:34:41.457Z",
+    "image_checked_at": "2026-10-31T13:13:52.793Z",
     "title": "Neuropixels Opto: combining high-resolution electrophysiology and optogenetics.",
     "authors": [
       "Anna A Lakunina",
@@ -227,6 +227,24 @@
     "citedBy": 17,
     "relevance": 9,
     "significance": "This paper enables simultaneous high-resolution recording and spatially precise optogenetic manipulation of thousands of neurons, revolutionizing circuit neuroscience research capabilities."
+  },
+  {
+    "title": "Uncertainty Quantification in Machine Learning for Biosignal Applications - A Review.",
+    "authors": [
+      "Ivo Pascal de Jong",
+      "Andreea Ioana Sburlea",
+      "Matias Valdenegro-Toro"
+    ],
+    "journal": "Journal of Healthcare Informatics Research",
+    "pmid": "42964313",
+    "doi": "10.1007/s41666-026-00249-5",
+    "url": "https://doi.org/10.1007/s41666-026-00249-5",
+    "publishedAt": "2026-08-01T00:00:00.000Z",
+    "pctile": 0.98334405,
+    "fwci": 13.6694,
+    "citedBy": 5,
+    "relevance": 6,
+    "significance": "Uncertainty quantification is a computational method that helps machine learning models provide confidence estimates alongside predictions, which is crucial for medical biosignals like EEG and EMG that suffer from noise and variability. For neurotechnology, reliable uncertainty estimates can improve the safety and usability of brain-computer interfaces and neural decoding systems by flagging low-confidence predictions that might otherwise produce harmful commands. This work directly supports the development and validation of clinical-grade neurotech systems."
   },
   {
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Tiefe_Hirnstimulation_-_Sonden_RoeSchaedel_ap.jpg",
@@ -282,11 +300,11 @@
     "doi": "10.1016/j.device.2026.101271",
     "url": "https://doi.org/10.1016/j.device.2026.101271",
     "publishedAt": "2026-08-11T00:00:00.000Z",
-    "pctile": 0.96784198,
-    "fwci": 6.4759,
+    "pctile": 0.96755805,
+    "fwci": 6.431,
     "citedBy": 1,
     "relevance": 8,
-    "significance": "Implantable BCIs for speech and motor restoration are entering clinical trials, but consent standards remain fragmented and ill-suited to their unique risks (irreversible brain surgery, neural data collection, long-term device dependence). This work proposes unified consent principles tailored to iBCIs, distinguishing them from existing neurosurgical and device standards. For the field, clear and consistent consent frameworks are essential infrastructure for clinical trial expansion, regulatory approval, and ethical commercialization of brain-computer interfaces."
+    "significance": "Implantable brain-computer interfaces pose novel ethical and clinical risks that differ fundamentally from conventional surgery or medical devices, including permanent brain implantation, unknown long-term effects, and complex trade-offs between restoration and safety. Establishing unified consent standards ensures that patients and clinicians can make informed decisions aligned with the true risks and benefits of iBCI therapy. This is a regulatory and ethical prerequisite for scaling iBCI clinical trials and commercialization."
   },
   {
     "title": "Neurotechnological Natives and the Neurotechnology Shift: A Research Agenda for the Brain-as-Interface Era.",
