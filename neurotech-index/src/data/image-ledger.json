@@ -669,6 +669,12 @@
       "item": "e0e3072a-398f-406f-a4b6-0fcbd0621ff9",
       "image": null,
       "title": "Demonstration of a methodology for long-term tracking of intracortical microstimulation-evoked perception thresholds in rat somatosensory cortex."
+    },
+    {
+      "date": "2026-11-04",
+      "item": "1adbf989-d4d1-488e-b955-8dff1ac9dc5d",
+      "image": null,
+      "title": "Motor cortex-based intracortical BCI performance is robust to changes in attentional load during dual-tasking."
     }
   ]
 }
