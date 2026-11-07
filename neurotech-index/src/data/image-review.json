@@ -2893,6 +2893,13 @@
       "title": null,
       "why": "unreviewed",
       "at": "2026-11-06"
+    },
+    {
+      "url": "https://spectrum.ieee.org/media-library/brain-stimulation-device-aims-to-treat-womens-health-condition.jpg?id=68593311&width=1200&height=600&coordinates=0%2C148%2C0%2C477",
+      "item": "7cc2c622-c39c-4478-b76e-0b387601b9eb",
+      "title": "Brain Stimulation Device Aims to Treat Women’s Health Conditions",
+      "why": "the photograph this outlet ran",
+      "at": "2026-11-07"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
