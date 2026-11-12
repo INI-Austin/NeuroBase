@@ -2907,6 +2907,27 @@
       "title": null,
       "why": "unreviewed",
       "at": "2026-11-10"
+    },
+    {
+      "url": "https://neurosciencenews.com/files/2026/11/infrared-brain-body-neuroscience-1155x770.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-12"
+    },
+    {
+      "url": "https://mmx.prnewswire.com/media/MS2033515/NATUS-MEDICAL-INCORPORATED-EMG-Global-EEG-Advisory-Board-Press-Release-Lorigan-Quote.jpg?id=OA3074442&p=original",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-12"
+    },
+    {
+      "url": "https://neurosciencenews.com/files/2026/11/infrared-brain-body-neuroscience.jpg",
+      "item": "e1010f66-5b10-4d6e-a7c3-79e411bff275",
+      "title": "Brain Moves Its Touch Center to Keep Feeling Sensation",
+      "why": "the photograph this outlet ran",
+      "at": "2026-11-12"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
