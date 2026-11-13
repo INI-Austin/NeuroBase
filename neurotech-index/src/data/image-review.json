@@ -2928,6 +2928,34 @@
       "title": "Brain Moves Its Touch Center to Keep Feeling Sensation",
       "why": "the photograph this outlet ran",
       "at": "2026-11-12"
+    },
+    {
+      "url": "https://www.statnews.com/wp-content/uploads/2024/07/AdobeStock_825639724-1024x576.jpeg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-13"
+    },
+    {
+      "url": "https://www.sciencedaily.com/images/1920/beyeler-bionic-eye.webp",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-13"
+    },
+    {
+      "url": "https://media.wired.com/photos/6ae951f7e1fce5fdf7878b36/master/pass/SM_Science_Synchron_GettyImages-1610629090.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-13"
+    },
+    {
+      "url": "https://media.wired.com/photos/6ae951f7e1fce5fdf7878b36/191:100/w_1280,c_limit/SM_Science_Synchron_GettyImages-1610629090.jpg",
+      "item": "d9f1309e-8c4f-46d6-b796-9b7f66bfe11d",
+      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+      "why": "the photograph this outlet ran",
+      "at": "2026-11-13"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
