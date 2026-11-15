@@ -9,7 +9,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_The_Modular_Prosthetic_Limb_(MPL)..jpg",
     "image_w": 2000,
     "image_h": 1333,
-    "image_checked_at": "2026-11-14T14:06:34.938Z",
+    "image_checked_at": "2026-11-15T14:37:45.432Z",
     "title": "Long-term independent use of an intracortical brain-computer interface for speech and cursor control.",
     "authors": [
       "Nicholas S Card",
@@ -29,9 +29,9 @@
     "doi": "10.1038/s41591-026-04414-6",
     "url": "https://doi.org/10.1038/s41591-026-04414-6",
     "publishedAt": "2026-06-15T00:00:00.000Z",
-    "pctile": 0.99943858,
-    "fwci": 53.899,
-    "citedBy": 25,
+    "pctile": 0.99946575,
+    "fwci": 55.769,
+    "citedBy": 26,
     "relevance": 9,
     "significance": "While laboratory BCIs have decoded speech and cursor control with impressive accuracy, they have required constant technical supervision and lab environments, blocking real clinical translation. This work demonstrates that an intracortical BCI system can be operated independently by a patient at home for extended periods, supporting both naturalistic speech decoding and digital cursor control without expert oversight. This is a landmark proof of concept that addresses the critical gap between research prototypes and practical, patient-independent neurotechnology, showing that implantable BCIs can deliver genuine functional benefit and usability in real life, not just in controlled settings.",
     "image_license_url": null
@@ -47,7 +47,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Typical_deep_brain_stimulation_setup.jpg",
     "image_w": 2000,
     "image_h": 2898,
-    "image_checked_at": "2026-11-14T14:06:34.081Z",
+    "image_checked_at": "2026-11-15T14:37:44.540Z",
     "title": "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks.",
     "authors": [
       "Satoka H Fujimoto",
@@ -87,7 +87,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Patch_rig.png",
     "image_w": 2000,
     "image_h": 732,
-    "image_checked_at": "2026-11-14T14:06:34.604Z",
+    "image_checked_at": "2026-11-15T14:37:44.979Z",
     "title": "Neuropixels Opto: combining high-resolution electrophysiology and optogenetics.",
     "authors": [
       "Anna A Lakunina",
@@ -125,8 +125,8 @@
     "doi": "10.1038/s41592-026-03076-z",
     "url": "https://doi.org/10.1038/s41592-026-03076-z",
     "publishedAt": "2026-06-01",
-    "pctile": 0.99789605,
-    "fwci": 25.7797,
+    "pctile": 0.99780891,
+    "fwci": 25.0725,
     "citedBy": 27,
     "relevance": 9,
     "significance": "This paper enables simultaneous high-resolution recording and spatially precise optogenetic manipulation of thousands of neurons, revolutionizing circuit neuroscience research capabilities."
@@ -324,8 +324,8 @@
     "pctile": 0.95335789,
     "fwci": 6.7259,
     "citedBy": 3,
-    "relevance": 8,
-    "significance": "Speech-based BCIs require precise electrode positioning and density to capture the distributed neural signatures of speech production. This work systematically tests grid size and placement to maximize decoding accuracy while minimizing surgical burden, directly advancing the design of implantable hardware for locked-in patients. The findings translate electrode physiology into concrete engineering guidelines for next-generation speech interface implants."
+    "relevance": 7,
+    "significance": "Speech-based brain-computer interfaces offer a natural communication pathway for people with paralysis, but electrode grid planning affects both performance and surgical risk. This study determines the optimal positioning and size of high-density ECoG grids specifically for decoding speech from sensorimotor cortex. The findings translate directly into better implant strategies and help balance the tradeoff between signal quality and surgical burden."
   },
   {
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Basic_outpatient_TMS_setup_%28cropped%29.jpg/1280px-Basic_outpatient_TMS_setup_%28cropped%29.jpg",
@@ -373,8 +373,8 @@
     "doi": "10.1111/nyas.70381",
     "url": "https://doi.org/10.1111/nyas.70381",
     "publishedAt": "2026-08-01T00:00:00.000Z",
-    "pctile": 0.92903226,
-    "fwci": 4.5291,
+    "pctile": 0.92258065,
+    "fwci": 4.4218,
     "citedBy": 3,
     "relevance": 7,
     "significance": "As brain-computer interfaces, neuromodulation devices, and neural sensors move beyond clinical settings into consumer and everyday applications, understanding the broader transformation in cognition, society, and technology adoption becomes critical for the field. This framing identifies the neurotechnology shift as a central challenge for practitioners, ethicists, and policymakers shaping how neurotechnology integrates into human life and work. It bridges device development with social and cultural feasibility."
