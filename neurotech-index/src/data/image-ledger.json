@@ -765,6 +765,12 @@
       "item": "7c4e7ce6-9a11-4ef4-a228-8f551b60a8d2",
       "image": null,
       "title": "Long-term stability of cellular-resolution brain-computer interface recordings after stroke."
+    },
+    {
+      "date": "2026-11-20",
+      "item": "bc3d7489-9cc3-455b-9442-cace96db8d05",
+      "image": null,
+      "title": "A translational platform for brain-computer interfaces and adaptive neuromodulation: Technical characterization, long-term validation, and implementation of the CorTec brain interchange-BCI2000 ecosystem."
     }
   ]
 }
