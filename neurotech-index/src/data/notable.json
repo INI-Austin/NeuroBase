@@ -9,7 +9,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_The_Modular_Prosthetic_Limb_(MPL)..jpg",
     "image_w": 2000,
     "image_h": 1333,
-    "image_checked_at": "2026-11-22T15:06:33.488Z",
+    "image_checked_at": "2026-11-23T18:51:26.475Z",
     "title": "Long-term independent use of an intracortical brain-computer interface for speech and cursor control.",
     "authors": [
       "Nicholas S Card",
@@ -47,7 +47,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Patch_rig.png",
     "image_w": 2000,
     "image_h": 732,
-    "image_checked_at": "2026-11-22T15:06:33.210Z",
+    "image_checked_at": "2026-11-23T18:51:26.100Z",
     "title": "Neuropixels Opto: combining high-resolution electrophysiology and optogenetics.",
     "authors": [
       "Anna A Lakunina",
@@ -102,7 +102,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Typical_deep_brain_stimulation_setup.jpg",
     "image_w": 2000,
     "image_h": 2898,
-    "image_checked_at": "2026-11-22T15:06:32.708Z",
+    "image_checked_at": "2026-11-23T18:51:25.640Z",
     "title": "Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks.",
     "authors": [
       "Satoka H Fujimoto",
@@ -125,9 +125,9 @@
     "doi": "10.1038/s41593-026-02301-4",
     "url": "https://doi.org/10.1038/s41593-026-02301-4",
     "publishedAt": "2026-06-01",
-    "pctile": 0.99820958,
-    "fwci": 33.6128,
-    "citedBy": 25,
+    "pctile": 0.99841787,
+    "fwci": 35.8273,
+    "citedBy": 26,
     "relevance": 8,
     "significance": "This study reveals how DBS mechanically remodels white matter and reorganizes brain networks, providing crucial biological mechanisms explaining why this treatment alleviates depression."
   },
@@ -198,8 +198,8 @@
     "doi": "10.1002/epi.70321",
     "url": "https://doi.org/10.1002/epi.70321",
     "publishedAt": "2026-06-03",
-    "pctile": 0.99590321,
-    "fwci": 23.0719,
+    "pctile": 0.99590884,
+    "fwci": 23.0319,
     "citedBy": 9,
     "relevance": 8,
     "significance": "This trial demonstrates that responsive thalamic stimulation safely reduces seizures in drug-resistant generalized epilepsy patients who lack other effective treatment options."
@@ -219,8 +219,8 @@
     "doi": "10.1016/j.isci.2026.117706",
     "url": "https://doi.org/10.1016/j.isci.2026.117706",
     "publishedAt": "2026-09-30",
-    "pctile": 0.99494927,
-    "fwci": 24.7139,
+    "pctile": 0.99462871,
+    "fwci": 23.0182,
     "citedBy": 5,
     "relevance": 7,
     "significance": ""
@@ -243,8 +243,8 @@
     "doi": "10.1038/s41593-026-02446-2",
     "url": "https://doi.org/10.1038/s41593-026-02446-2",
     "publishedAt": "2026-09-14T00:00:00.000Z",
-    "pctile": 0.98038829,
-    "fwci": 10.2301,
+    "pctile": 0.98016869,
+    "fwci": 10.1185,
     "citedBy": 6,
     "relevance": 9,
     "significance": "This landmark result demonstrates that a single implanted electrode array can decode both speech and gesture intentions from the same neural population, opening the door to naturalistic two-channel communication for people with severe paralysis. By showing that these modalities can be separated and recombined in real time, it represents a major advance in the practical utility and bandwidth of BCI systems. This multimodal approach substantially improves what severely disabled users can express compared to single-modality BCIs, moving the field toward genuine conversational interfaces."
@@ -264,8 +264,8 @@
     "doi": "10.1016/j.celrep.2026.118123",
     "url": "https://doi.org/10.1016/j.celrep.2026.118123",
     "publishedAt": "2026-10-01",
-    "pctile": 0.98026251,
-    "fwci": 10.0702,
+    "pctile": 0.97934579,
+    "fwci": 9.9151,
     "citedBy": 6,
     "relevance": 7,
     "significance": ""
@@ -300,8 +300,8 @@
     "doi": "10.1038/s41398-026-04298-7",
     "url": "https://doi.org/10.1038/s41398-026-04298-7",
     "publishedAt": "2026-07-24T00:00:00.000Z",
-    "pctile": 0.97921829,
-    "fwci": 10.3424,
+    "pctile": 0.97906479,
+    "fwci": 10.2364,
     "citedBy": 4,
     "relevance": 7,
     "significance": "This work applies deep brain stimulation to a new psychiatric target (substantia nigra pars reticulata) for treatment-resistant schizophrenia, with acute outcome mapping using connectomics. It represents a clinically meaningful advance in understanding how DBS engages distributed brain networks to suppress symptoms, bridging device implantation with mechanistic circuit analysis. This directional progress in DBS applications and targeting refinement matters to practitioners developing psychiatric neuromodulation protocols."
@@ -367,11 +367,11 @@
     "doi": "10.1016/j.neurom.2026.09.002",
     "url": "https://doi.org/10.1016/j.neurom.2026.09.002",
     "publishedAt": "2026-09-17T00:00:00.000Z",
-    "pctile": 0.9604454,
-    "fwci": 9.5868,
+    "pctile": 0.96001775,
+    "fwci": 9.4543,
     "citedBy": 2,
     "relevance": 5,
-    "significance": "These consensus guidelines address regulatory and clinical standardization of implantable peripheral nerve stimulation devices across defined pain conditions and anatomical targets. Establishing evidence-based, indication-specific guidance helps clarify device labeling, approval pathways, and clinical best practices, thereby accelerating adoption of neuromodulation technology in clinical practice. While not a hardware or algorithmic innovation, the work is directly relevant to the commercialization, regulatory strategy, and clinical deployment of peripheral nerve stimulation systems.",
+    "significance": "These consensus guidelines synthesize evidence on implantable peripheral nerve stimulation across specific anatomical targets and pain conditions, providing the clinical roadmap and regulatory rationale for device approval and clinical adoption. While primarily a clinical guidance document rather than a hardware or software innovation, it directly influences how neurostimulation devices are deployed in practice and serves as a reference standard for companies and clinicians choosing and validating PNS platforms.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Synapse_IPG.jpg/1280px-Synapse_IPG.jpg",
     "image_kind": "photo",
     "image_subject": "class",
@@ -382,7 +382,7 @@
     "image_source_url": "https://commons.wikimedia.org/wiki/File:Synapse_IPG.jpg",
     "image_w": 1280,
     "image_h": 1899,
-    "image_checked_at": "2026-11-22T15:06:29.159Z"
+    "image_checked_at": "2026-11-23T18:51:21.172Z"
   },
   {
     "title": "Optimal positioning and size of high-density electrocorticography grids for speech brain-computer interfaces.",
@@ -399,11 +399,11 @@
     "doi": "10.1016/j.clinph.2026.2111940",
     "url": "https://doi.org/10.1016/j.clinph.2026.2111940",
     "publishedAt": "2026-06-01T00:00:00.000Z",
-    "pctile": 0.93837929,
-    "fwci": 5.115,
+    "pctile": 0.93782617,
+    "fwci": 5.0592,
     "citedBy": 3,
-    "relevance": 7,
-    "significance": "Speech brain-computer interfaces aim to restore communication for people with paralysis, and this work addresses how to position and size high-density ECoG electrode arrays over sensorimotor cortex to maximize word classification accuracy. These are core neurotechnology design decisions that affect surgical planning, electrode efficiency, and clinical outcomes. The findings guide manufacturers and surgeons in configuring implants for optimal speech decoding without unnecessary electrode burden."
+    "relevance": 8,
+    "significance": "Speech brain-computer interfaces using electrocorticography represent a major neurotechnology application for people with paralysis who cannot speak. This work addresses a core engineering challenge: how to position and size electrode grids on the cortex to maximize speech decoding while minimizing surgical complexity and risk. By optimizing grid placement and electrode count, the research makes implantable speech BCIs more practical and effective for clinical deployment."
   },
   {
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Basic_outpatient_TMS_setup_%28cropped%29.jpg/1280px-Basic_outpatient_TMS_setup_%28cropped%29.jpg",

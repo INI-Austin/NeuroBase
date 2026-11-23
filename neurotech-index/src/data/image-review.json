@@ -2998,6 +2998,27 @@
       "title": null,
       "why": "unreviewed",
       "at": "2026-11-22"
+    },
+    {
+      "url": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/master/pass/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-23"
+    },
+    {
+      "url": "https://media.sciencenews.org/wp-content/uploads/sites/2/2026/11/111926_LS_brain-speech_main.jpg?w=800",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-23"
+    },
+    {
+      "url": "https://media.wired.com/photos/6b00bf3096143f394c42fff6/191:100/w_1280,c_limit/Nvidia-Powering%20Brain-Computer-Interfaces-mary-connexus-control-unit-Science.jpg",
+      "item": "d2420d63-cd77-4e3f-a7c1-9c8b740c0e96",
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "why": "the photograph this outlet ran",
+      "at": "2026-11-23"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."

@@ -783,6 +783,12 @@
       "item": "9c3b8428-e5f4-480d-b4b5-e49a16a0e751",
       "image": null,
       "title": "Frequency-dependent entorhinal cortex stimulation differentially modulates spatial working memory and CA1 network dynamics."
+    },
+    {
+      "date": "2026-11-23",
+      "item": "bf76ffc3-2907-4fe5-9846-762af9f2fb71",
+      "image": null,
+      "title": "Motor cortex-based intracortical BCI performance is robust to changes in attentional load during dual-tasking."
     }
   ]
 }
