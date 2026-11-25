@@ -3019,6 +3019,20 @@
       "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
       "why": "the photograph this outlet ran",
       "at": "2026-11-23"
+    },
+    {
+      "url": "https://spectrum.ieee.org/media-library/scattered-ink-spots-surrounding-a-diagram-of-hair-follicles-growing-from-a-layer-of-skin.jpg?id=68754329&width=980",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-25"
+    },
+    {
+      "url": "https://mmx.prnewswire.com/media/MS2042947/Spark-Biomedical.jpg?id=OA3100669&p=original",
+      "item": null,
+      "title": null,
+      "why": "unreviewed",
+      "at": "2026-11-25"
     }
   ],
   "note": "Picture decisions made by looking at the picture, and the queue of pictures still waiting for one. Written by the daily reviewer (neurotech-index/docs/home-image-review.md) and read by scripts/lib/review.js. No script in this repo calls a model API; this file is where the judgement comes from. Unreviewed means no."
